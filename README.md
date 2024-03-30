@@ -8,9 +8,6 @@ streamlit run app.py
 ```
 This will start the Streamlit application locally, and you can access it via your web browser.
 
-Try Online:
-Alternatively, you can try out the deployed version of the application [here](https://fifa-career-mode-guide-ayantik.streamlit.app/).
-
 Features:
 The application provides valuable insights, tips, and strategies for FIFA Career Mode.
 Users can access information on player development, team management, tactics, and more.
