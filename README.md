@@ -17,8 +17,5 @@ Technologies Used:
 Python
 Streamlit
 
-Feedback and Contributions:
-Feedback, bug reports, and contributions are welcome. Feel free to submit issues or pull requests.
-
 Disclaimer:
 This application is not affiliated with or endorsed by EA Sports, the developer of FIFA. It is a fan-made tool aimed at enhancing the FIFA gaming experience.
